@@ -1,0 +1,17 @@
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\bin\Debug\PerformanceLogger.exe.config
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\bin\Debug\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\bin\Debug\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\obj\Debug\PerformanceLogger.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\obj\Debug\PerformanceLogger.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\obj\Debug\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\killer-antiplagiat\performanceLogger\PerformanceLogger\obj\Debug\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Debug\PerformanceLogger.exe.config
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Debug\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Debug\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Debug\PerformanceLogger.csprojAssemblyReference.cache
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Debug\PerformanceLogger.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Debug\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Debug\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Debug\PerformanceLogger.csproj.CopyComplete

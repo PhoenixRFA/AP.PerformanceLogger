@@ -1,0 +1,10 @@
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Release\PerformanceLogger.exe.config
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Release\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Release\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Release\Newtonsoft.Json.dll
+C:\Users\Phoenix\source\repos\PerformanceLogger\bin\Release\Newtonsoft.Json.xml
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Release\PerformanceLogger.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Release\PerformanceLogger.csproj.CopyComplete
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Release\PerformanceLogger.exe
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Release\PerformanceLogger.pdb
+C:\Users\Phoenix\source\repos\PerformanceLogger\obj\Release\PerformanceLogger.csprojAssemblyReference.cache
